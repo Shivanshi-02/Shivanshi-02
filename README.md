@@ -1,5 +1,6 @@
-## Hi there!👋
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Shivanshi+Srivastava!;" />
+</h1>
 
 # 💫 About Me:
 I am Shivanshi Srivastava, a Computer Science student passionate about Software Development, AI/ML, and Full-Stack Web Development. I enjoy building practical applications using the MERN stack, exploring machine learning concepts, and solving data structures & algorithms problems. I’m continuously learning new technologies, contributing to projects, and working on improving my problem-solving and development skills.
