@@ -5,6 +5,7 @@
 # 💫 About Me:
 I am Shivanshi Srivastava, a Computer Science student passionate about Software Development, AI/ML, and Full-Stack Web Development. I enjoy building practical applications using the MERN stack, exploring machine learning concepts, and solving data structures & algorithms problems. I’m continuously learning new technologies, contributing to projects, and working on improving my problem-solving and development skills.
 
+🌱 *Committed to continuous learning and growth as a software engineer.*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shivanshi-02&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -17,7 +18,7 @@ I am Shivanshi Srivastava, a Computer Science student passionate about Software 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-✨ *Always open to new challenges and continuous growth.*
+
 
 
 
