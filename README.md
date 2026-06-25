@@ -17,10 +17,7 @@ I am Shivanshi Srivastava, a Computer Science student passionate about Software 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Profile Views
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Shivanshi-02-pro&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
 
 
 
