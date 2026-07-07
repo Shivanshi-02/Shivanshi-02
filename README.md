@@ -9,7 +9,6 @@ I am Shivanshi Srivastava, a Computer Science student passionate about Software 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shivanshi-02&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shivanshi-02&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivanshi-02&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
